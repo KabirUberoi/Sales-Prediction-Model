@@ -55,4 +55,4 @@ Each custom model adheres to its theoretical underpinnings and was optimized usi
 ## Contributors
 
 - **Kabir**: Decision Tree, Random Forest, Gradient Boosting
-- **Shikhar Gupta**: Linear Regression, Ridge Regression
+- **Shikhar Gupta**: Linear Regression, Ridge Regression, Polynomial Regression
