@@ -1,7 +1,3 @@
-Here’s a detailed README for your GitHub repository:
-
----
-
 # Sales Prediction using Machine Learning Models
 
 This repository contains the implementation of various machine learning models for predicting sales based on a given dataset of product and store attributes. The models were developed and evaluated as part of **Project 7** for the course ELL409.
